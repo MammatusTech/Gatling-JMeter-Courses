@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.advantageous.qbit:qbit-vertx:0.9.0.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.qbit/qbit-vertx/0.9.0.RELEASE/6a29c127e70461a7c64044a74faa5709918aa2da/qbit-vertx-0.9.0.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.qbit/qbit-vertx/0.9.0.RELEASE/1a8dbaf18954ece88868a3e07b47eee70c55834f/qbit-vertx-0.9.0.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.advantageous.qbit:qbit-web:0.8.10">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.qbit/qbit-web/0.8.10/c91fb7381e4234b8266bf00267e8aeb6d8db3c44/qbit-web-0.8.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.qbit/qbit-web/0.8.10/c91fb7381e4234b8266bf00267e8aeb6d8db3c44/qbit-web-0.8.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
